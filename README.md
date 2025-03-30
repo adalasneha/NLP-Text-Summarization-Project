@@ -5,14 +5,19 @@
 This project implements text summarization using Natural Language Processing (NLP) techniques. It supports:
 
 Extractive Summarization (TextRank algorithm)
+
 Abstractive Summarization (using BART Transformer model)
+
 TF-IDF for keyword extraction
+
 POS Tagging & Chunking
+
 A Streamlit UI for user interaction
 
 📂 Dataset Used
 
 CNN/DailyMail Dataset (from datasets library)
+
 Automatically downloaded in the script
 
 🛠️ Installation & Setup
@@ -34,16 +39,14 @@ print("Public URL:", public_url)
 
 📜 Features
 
-✅ Text Summarization (Extractive & Abstractive)
-✅ TF-IDF Keyword Extraction
-✅ POS Tagging & Chunking
-✅ Interactive Streamlit UI
-✅ Deployable via Google Colab & GitHub
+✅ Text Summarization (Extractive & Abstractive)✅ TF-IDF Keyword Extraction✅ POS Tagging & Chunking✅ Interactive Streamlit UI✅ Deployable via Google Colab & GitHub
 
 📌 How to Use
 
 Enter the text you want to summarize in the UI.
+
 Click 'Summarize' to generate the summary.
+
 View the Extractive & Abstractive Summaries.
 
 📎 Example Input Text
@@ -66,18 +69,10 @@ git push -u origin main
 🏆 Future Improvements
 
 Support for more languages
+
 Integration with GPT models for better summaries
+
 Enhancements to UI & UX
-
-📌 Contributing
-
-Feel free to fork, improve, and contribute to this project!
-
-📜 License
-
-This project is licensed under the MIT License.
-
-
 
 📌 Contributing
 
